@@ -5,4 +5,5 @@ Andrew Neher's Homework Submission
 
 
 
-Started: 1/8/2021 - 2 hours
+Started: 1/8/2021
+Finished: 1/13/2021
