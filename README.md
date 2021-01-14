@@ -16,6 +16,6 @@ OBSERVABLE TRENDS
 
 2.) This game is currently most popular with Millenials and Teenagers.
 
-3.) Most people tend to spend between $3 to $4 per item. Top spenders drop between $13 to $19 on this game
+3.) Most people tend to spend between $3 to $4 per item. Top spenders drop between $13 to $19 on this game.
 
 4.) The most popular items cost about $4 to $5 each.
