@@ -1,5 +1,7 @@
 # pandas-challenge
-HEREOS OF PYMOLI
+HEREOS OF PYMOLI - 
+Started: 1/8/2021
+Submitted: 1/13/2021
 
 Homework Assignment for Northwestern Bootcamp
 
@@ -17,7 +19,3 @@ OBSERVABLE TRENDS
 3.) Most people tend to spend between $3 to $4 per item.
 
 4.) The most popular items cost about $4 to $5 each.
-
-
-Started: 1/8/2021
-Submitted: 1/13/2021
